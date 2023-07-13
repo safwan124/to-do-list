@@ -1,0 +1,25 @@
+*{
+    font-family: 'Bubblegum Sans', cursive;
+}
+.hero-title 
+{ 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center; 
+}
+.block 
+{ 
+    display: block;
+    width: 100%;
+}
+.done
+{
+    float: right;
+}
+#input-box{
+    padding: 5px;
+}
+.task
+{
+    margin-left: 20px;
+}
